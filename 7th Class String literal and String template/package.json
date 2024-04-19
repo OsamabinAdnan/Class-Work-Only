@@ -1,0 +1,12 @@
+{
+  "name": "7th-class-string-literal-and-string-template",
+  "version": "1.0.0",
+  "description": "String Literal",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Osama bin Adnan",
+  "license": "MIT"
+}
