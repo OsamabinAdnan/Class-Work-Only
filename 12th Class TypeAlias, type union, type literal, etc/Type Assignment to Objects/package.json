@@ -1,0 +1,12 @@
+{
+  "name": "type-assignment-to-objects",
+  "version": "1.0.0",
+  "description": "type assignment to objects",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Osama bin adnan",
+  "license": "MIT"
+}
